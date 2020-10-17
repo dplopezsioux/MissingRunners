@@ -1,0 +1,7 @@
+C:\Users\dplop\source\repos\COJ\COJ\bin\Debug\COJ.exe.config
+C:\Users\dplop\source\repos\COJ\COJ\bin\Debug\COJ.exe
+C:\Users\dplop\source\repos\COJ\COJ\bin\Debug\COJ.pdb
+C:\Users\dplop\source\repos\COJ\COJ\obj\Debug\COJ.csprojAssemblyReference.cache
+C:\Users\dplop\source\repos\COJ\COJ\obj\Debug\COJ.csproj.CoreCompileInputs.cache
+C:\Users\dplop\source\repos\COJ\COJ\obj\Debug\COJ.exe
+C:\Users\dplop\source\repos\COJ\COJ\obj\Debug\COJ.pdb
